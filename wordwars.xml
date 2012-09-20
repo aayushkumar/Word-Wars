@@ -8,10 +8,9 @@
 <![CDATA[
 <html>
   <body>
-    <iframe src="http://abcdefg.google.com/~wchau/word-wars/wordwars.html" height="50%" width="50%"></iframe>
     <script src="//hangoutsapi.talkgadget.google.com/talkgadget/apps/gadgets/js/rpc.js"></script>
-<script src="//hangoutsapi.talkgadget.google.com/hangouts/api/hangout.js?v=1.1"></script>
-
+    <script src="//hangoutsapi.talkgadget.google.com/hangouts/api/hangout.js?v=1.1"></script>
+    <iframe src="http://abcdefg.google.com/~wchau/word-wars/wordwars.html" height="50%" width="50%"></iframe>
   </body>
 </html>
     ]]>
