@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Module>
+  <ModulePrefs title="Word-Wars">
+    <Require feature="rpc"/>
+    <Require feature="views"/>
+  </ModulePrefs>
+  <Content type="html">
+<![CDATA[
+<html>
+  <body>
+    <iframe src="http://abcdefg.google.com/~wchau/word-wars/wordwars.html"></iframe>
+  </body>
+</html>
+    ]]>
+  </Content>
+</Module>
